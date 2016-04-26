@@ -1,0 +1,31 @@
+/*
+	Theme Name:   SaudiQuote Ltd
+	Theme URI:    http://saudiquote.com
+	Description:  SaudiQuote theme
+	Author:       Mark Timbol
+	Version:      2.0.0
+	Text Domain:  twenty-fourteen-child
+*/
+
+@font-face {
+	font-family:"Segoe UI Light"; src:local("O"), url("fonts/segoe/segoe-ui-light-latin.woff") format("woff"),url("fonts/segoe/segoe-ui-light-latin.eot"),url("fonts/segoe/segoe-ui-light-latin.eot?") format("embedded-opentype"),url("fonts/segoe/segoe-ui-light-latin.ttf") format("truetype");
+	font-style:normal;
+	font-weight:200
+}
+@font-face {
+	font-family:"Segoe UI Arabic Light"; src:local("O"),url("fonts/segoe/segoe-ui-light-arabic.woff") format("woff"),url("fonts/segoe/segoe-ui-light-arabic.eot"),url("fonts/segoe/segoe-ui-light-arabic.eot?") format("embedded-opentype"),url("fonts/segoe/segoe-ui-light-arabic.ttf") format("truetype");
+	font-style:normal;
+	font-weight:200
+}
+
+@font-face {
+    font-family: 'Noora';
+    src: url('fonts/noora/ufonts.com_khalaad-noora-webfont.eot');
+    src: url('fonts/noora/ufonts.com_khalaad-noora-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/noora/ufonts.com_khalaad-noora-webfont.woff2') format('woff2'),
+         url('fonts/noora/ufonts.com_khalaad-noora-webfont.woff') format('woff'),
+         url('fonts/noora/ufonts.com_khalaad-noora-webfont.ttf') format('truetype'),
+         url('fonts/noora/ufonts.com_khalaad-noora-webfont.svg#khalaad_noorakhalaad_noora') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
