@@ -319,7 +319,7 @@ function icl_sitepress_activate(){
             INDEX ( `nid` )
             ) ENGINE=MyISAM {$charset_collate} 
       ";  
-       mysql_query($icl_translation_sql);
+       // mysql_query($icl_translation_sql);
       $wpdb->query($icl_translation_sql);
       if($e = mysql_error()) throw new Exception($e);
        
