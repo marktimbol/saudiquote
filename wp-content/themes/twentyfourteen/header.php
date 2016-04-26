@@ -1,4 +1,5 @@
 <?php
+phpinfo();
 echo $_ENV['DB_NAME'];
 echo $_ENV['DB_USER'];
 echo $_ENV['DB_HOST'];
