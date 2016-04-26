@@ -1,6 +1,3 @@
-<?php
-echo getenv('DB_NAME');
-?>
 <!DOCTYPE html>
 <!--[if (gte IE 9)|!(IE)]><!--><html <?php language_attributes(); ?>> <!--<![endif]-->
 	<head>
