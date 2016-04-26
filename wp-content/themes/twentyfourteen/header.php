@@ -1,12 +1,4 @@
 <?php
-phpinfo();
-echo $_ENV['DB_NAME'];
-echo $_ENV['DB_USER'];
-echo $_ENV['DB_HOST'];
-
-echo getenv('DB_NAME');
-echo getenv('DB_USER');
-echo getenv('DB_HOST');
 /**
  * The Header for our theme
  *

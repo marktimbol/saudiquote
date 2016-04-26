@@ -1,3 +1,13 @@
+<?php
+
+echo $_ENV['DB_NAME'];
+echo $_ENV['DB_USER'];
+echo $_ENV['DB_HOST'];
+
+echo getenv('DB_NAME');
+echo getenv('DB_USER');
+echo getenv('DB_HOST');
+?>
 <!DOCTYPE html>
 <!--[if (gte IE 9)|!(IE)]><!--><html <?php language_attributes(); ?>> <!--<![endif]-->
 	<head>
