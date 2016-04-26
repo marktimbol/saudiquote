@@ -5,12 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
-		<title><?php
-			global $page, $paged;
-			
-			wp_title( '|', true, 'right' );
-		
-		?></title>		
+		<title><?php wp_title( '|', true, 'right' ); ?></title>		
 		
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C900%7CRoboto%7CRoboto+Slab%3A300%2C400&#038;ver=3.7.1" type="text/css" media="all" />
 		<link rel="stylesheet" href="<?=get_bloginfo('stylesheet_directory');?>/css/normalize.css" />
