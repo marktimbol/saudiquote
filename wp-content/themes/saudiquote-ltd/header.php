@@ -12,7 +12,7 @@
 		
 		?></title>		
 		
-		<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C900%7CRoboto%7CRoboto+Slab%3A300%2C400&#038;ver=3.7.1" type="text/css" media="all" />
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C900%7CRoboto%7CRoboto+Slab%3A300%2C400&#038;ver=3.7.1" type="text/css" media="all" />
 		<link rel="stylesheet" href="<?=get_bloginfo('stylesheet_directory');?>/css/normalize.css" />
 		<link rel="icon" type="image/png" href="<?=get_bloginfo('stylesheet_directory');?>/favicon.ico">
 		<meta name="robots" content="index, follow" />
