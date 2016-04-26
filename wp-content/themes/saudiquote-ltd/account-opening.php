@@ -3,7 +3,6 @@
 	Template Name: Account Opening
 */
 get_header(); 
-echo $_ENV['DB_NAME'];
 ?>
 
 <div class="container" id="main-content">
