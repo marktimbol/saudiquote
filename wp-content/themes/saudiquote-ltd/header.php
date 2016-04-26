@@ -1,6 +1,3 @@
-<?php
-echo getenv('WP_DATABASE');
-?>
 <!DOCTYPE html>
 <!--[if (gte IE 9)|!(IE)]><!--><html <?php language_attributes(); ?>> <!--<![endif]-->
 	<head>
