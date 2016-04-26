@@ -18,7 +18,7 @@
 					var vc = '000044';
 
 					</script>
-					<script type="text/javascript" src="http://www.currency.me.uk/remote/CUK-LFOREXRTICKER-1.php"></script>
+					<script type="text/javascript" src="https://currency.me.uk/remote/CUK-LFOREXRTICKER-1.php"></script>
 					<!-- EXCHANGERATES.ORG.UK LIVE FOREX RATES TICKER END -->
 				</div>
 			</div>	
@@ -51,9 +51,9 @@
 						<figcaption>
 							<h4>Upcoming Releases</h4>
 							<div class="fading-line"></div>
-							<script type="text/javascript"> var fxcalendar_config = { host: "http://calendar.fxstreet.com", css: 'mini', rows: 3, pastevents: 3, hoursbefore: 20, timezone: 'Arab Standard Time', showcountryname: 'false', columns: 'date,time,country,event', isfree: 'true', countrycode: 'AU,CA,JP:EMU,NZ,CH,UK,US', culture:'en-US' }; 
+							<script type="text/javascript"> var fxcalendar_config = { host: "https://calendar.fxstreet.com", css: 'mini', rows: 3, pastevents: 3, hoursbefore: 20, timezone: 'Arab Standard Time', showcountryname: 'false', columns: 'date,time,country,event', isfree: 'true', countrycode: 'AU,CA,JP:EMU,NZ,CH,UK,US', culture:'en-US' }; 
 							</script> 
-							<script type="text/javascript" src="http://calendar.fxstreet.com/scripts/mini">
+							<script type="text/javascript" src="https://calendar.fxstreet.com/scripts/mini">
 							</script>
 
 							<div id="fxst_calendar" style="width: 100%"></div>
