@@ -105,7 +105,7 @@ get_header(); ?>
 								</p>	
 
 								<div class=" ">
-									<img src="http://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-4-Screenshot-Arabic.png" class="img-shadow" />
+									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-4-Screenshot-Arabic.png" class="img-shadow" />
 								</div>														
 
 								<br /><br /><br />
@@ -114,7 +114,7 @@ get_header(); ?>
 								</p>		
 
 								<div class="">
-									<img src="http://saudiquote.com/wp-content/uploads/2014/12/Deposit-Funds-Screenshot-Arabic.png" class="img-shadow" />
+									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Deposit-Funds-Screenshot-Arabic.png" class="img-shadow" />
 								</div>
 							</div>
 
@@ -262,7 +262,7 @@ get_header(); ?>
 								</p>
 
 								<div class="wow fadeInRight">
-									<img src="http://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-41.jpg" class="img-shadow" />
+									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-41.jpg" class="img-shadow" />
 								</div>	
 											
 								<br /><br />
@@ -273,7 +273,7 @@ get_header(); ?>
 								</p>		
 
 								<div class="wow fadeInRight">
-									<img src="http://saudiquote.com/wp-content/uploads/2014/12/Account-Funding-Details.jpg" class="img-shadow" />
+									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Account-Funding-Details.jpg" class="img-shadow" />
 								</div>
 							</div>
 
