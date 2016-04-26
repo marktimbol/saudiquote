@@ -1,6 +1,5 @@
 <?php
-echo getenv('DB_USER');
-echo getenv('DB_PASSWORD');
+phpinfo();
 ?>
 <!DOCTYPE html>
 <!--[if (gte IE 9)|!(IE)]><!--><html <?php language_attributes(); ?>> <!--<![endif]-->
