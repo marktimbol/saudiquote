@@ -23,11 +23,11 @@ get_header(); ?>
 							</li>	
 							*/ ?>						
 							<li class="fa fa-phone">
-								<span>+44 20 3318 5935</span>
+								<span>+44-20 3318 5028</span>
 							</li>
 						
 							<li class="fa fa-phone">
-								<span>+64 6 824 3922</span>
+								<span>+64-4 830 3476</span>
 							</li>	
 										
 							<li class="fa fa-envelope-o">
@@ -59,11 +59,11 @@ get_header(); ?>
 							</li>	
 							*/ ?>						
 							<li class="fa fa-phone">
-								<span>+44 20 3318 5935</span>
+								<span>+44-20 3318 5028</span>
 							</li>
-					
+						
 							<li class="fa fa-phone">
-								<span>+64 6 824 3922</span>
+								<span>+64-4 830 3476</span>
 							</li>	
 									
 							<li class="fa fa-envelope-o">
