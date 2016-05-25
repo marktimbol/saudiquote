@@ -20,10 +20,10 @@
             <p class="lead" dir="LTR" style="text-align: right !important;">+971 4 551 9718</p>
             */ ?>
             <p>المملكة المتحدة </p>
-            <p class="lead" dir="LTR" style="text-align: right !important;">+44 20 3318 5935</p>
+            <p class="lead" dir="LTR" style="text-align: right !important;">+44-20 3318 5028</p>
            
             <p>نيو زيلندا </p>
-            <p class="lead" dir="LTR" style="text-align: right !important;">+64 6 824 3922</p> 
+            <p class="lead" dir="LTR" style="text-align: right !important;">+64-4 830 3476</p> 
          
             <p><a href="mailto:info@saudiquote.com">info@saudiquote.com</a></p> 
             <br />
@@ -47,10 +47,10 @@
             <p class="lead">+971 4 551 9718</p>
             */ ?>
             <p>United Kingdom</p>
-            <p class="lead">+44 20 3318 5935</p>
+            <p class="lead">+44-20 3318 5028</p>
           
             <p>New Zealand</p>
-            <p class="lead">+64 6 824 3922</p>
+            <p class="lead">+64-4 830 3476</p>
            
             <p><a href="mailto:info@saudiquote.com">info@saudiquote.com</a></p> 
             <br />
