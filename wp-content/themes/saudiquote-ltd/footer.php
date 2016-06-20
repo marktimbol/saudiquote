@@ -4,12 +4,9 @@
 			include('sitemap-en.php');
 		} ?>
 
-
-
 		<script charset="utf-8" type="text/javascript">var switchTo5x=true;</script>
 		<script charset="utf-8" type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 		<script charset="utf-8" type="text/javascript">stLight.options({"publisher":"804f4d9c-808b-4653-8520-b633ce72764b","doNotCopy":true,"hashAddressBar":false,"doNotHash":true});var st_type="wordpress4.0.1";</script>
-
 
 		<script src="<?=get_bloginfo('stylesheet_directory');?>/js/foundation.min.js"></script>
 		<script src="<?=get_bloginfo('stylesheet_directory');?>/js/faq.js"></script>	
