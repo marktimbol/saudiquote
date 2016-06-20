@@ -1,5 +1,6 @@
 <div class="large-4 medium-4 small-12 columns">
 
+    <?php /*
     <div id="side-nav">
         <?php if( ICL_LANGUAGE_CODE == 'ar' ) { ?>
            <a href="<?=get_permalink(1917);?>" class="small button expand primary mb10">إبدأ بفتح حساب حقيقي</a>
@@ -9,7 +10,7 @@
            <a href="<?=get_permalink(1107);?>" class="small button expand">Try a Demo Account</a>
         <?php } ?>
     </div>
-        
+    */ ?>
     <div class="contact-sidebar">
         <?php if( ICL_LANGUAGE_CODE == 'ar' ) { ?>
             <h3>للتواصل</h3>
