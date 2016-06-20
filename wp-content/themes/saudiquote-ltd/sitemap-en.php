@@ -92,10 +92,19 @@
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/footer-logo.png" alt="SaudiQuote Logo" />
 					</div>
 					<div class="small-9 medium-10 large-10 columns">
-						<p class="copyright">
-							Saudiquote.com is owned and operated by SAUDIQUOTE LIMITED, New Zealand (Tel: + 64 6 8243922)<br />
-							Copyright &copy; <?=date('Y')?> SaudiQuote Ltd. | <a href="#">Disclaimer</a> | <a href="#">Privacy Policy</a> | <a href="http://saudiquote.com/docs/Customer-Agreement-English.pdf" target="_blank">Terms & Conditions</a>
-						</p>
+						<div class="row">
+							<div class="medium-9 columns">
+								<p class="copyright">
+									Saudiquote.com is owned and operated by SAUDIQUOTE LIMITED, New Zealand (Tel: + 64 6 8243922)<br />
+									Copyright &copy; <?=date('Y')?> SaudiQuote Ltd. | <a href="#">Disclaimer</a> | <a href="#">Privacy Policy</a> | <a href="http://saudiquote.com/docs/Customer-Agreement-English.pdf" target="_blank">Terms & Conditions</a>
+								</p>
+							</div>
+
+							<div class="medium-3 columns">
+								<img src="<?=get_bloginfo('stylesheet_directory');?>/images/Saudi-Arabia-2030-Vision-Logo.png" alt="SaudiQuote Logo" />
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</footer>
