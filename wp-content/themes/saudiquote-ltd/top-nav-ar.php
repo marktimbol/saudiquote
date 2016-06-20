@@ -95,8 +95,6 @@
 							<form method="POST">
 								<select id="form-select">
 									<option value="">أريد أن ...</option>
-									<option value="<?=get_permalink(1917);?>">افتح حساب حقيقي</option>
-									<option value="<?=get_permalink(1915);?>">افتح حساب تجريبي</option>
 									<option value="<?=get_permalink(1913);?>">اعرف المزيد عن  SaudiQuote</option>
 									<option value="<?=get_permalink(2170);?>">اعرف المزيد عن الحزمات الاستثمارية</option>
 									<option value="<?=get_permalink(2306);?>">اتعلم عملية فتح الحساب</option>
