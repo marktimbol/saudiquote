@@ -94,7 +94,7 @@
 						<div class="medium-9 columns">
 							<p class="copyright">
 								Saudiquote.com مملوكة وبإدارة شركة SaudiQuote المحدودة في نيوزيلندا (الهاتف : <span dir="ltr">+64 6 8243922</span>)<br />
-								جميع الحقوق محفوظة &copy; <?=date('Y');?> SaudiQuote المحدودة | <a href="#">تنصل</a> | <a href="#">سياسة الخصوصية</a> | <a href="http://saudiquote.com/docs/Customer-Agreement-Arabic.pdf" target="_blank">الشروط والأحكام</a>
+								جميع الحقوق محفوظة &copy; <?=date('Y');?> SaudiQuote المحدودة | <a href="#">سياسة الخصوصية</a> | <a href="http://saudiquote.com/docs/Customer-Agreement-Arabic.pdf" target="_blank">الشروط والأحكام</a>
 							</p>
 						</div>
 						<div class="medium-3 columns" style="text-align: left;">
