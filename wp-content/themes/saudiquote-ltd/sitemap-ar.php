@@ -97,7 +97,7 @@
 								جميع الحقوق محفوظة &copy; <?=date('Y');?> SaudiQuote المحدودة | <a href="#">تنصل</a> | <a href="#">سياسة الخصوصية</a> | <a href="http://saudiquote.com/docs/Customer-Agreement-Arabic.pdf" target="_blank">الشروط والأحكام</a>
 							</p>
 						</div>
-						<div class="medium-3 columns">
+						<div class="medium-3 columns" style="text-align: left;">
 							<img src="<?=get_bloginfo('stylesheet_directory');?>/images/Saudi-Arabia-2030-Vision-Logo.png" alt="SaudiQuote Logo" />
 						</div>	
 					</div>
