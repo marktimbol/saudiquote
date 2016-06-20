@@ -83,7 +83,7 @@
 			<div id="main-slideshow">
 				<div class="row">
 					<div class="fadein">
-						
+						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/Saudi-Arabia-2030-Vision.jpg" alt="Saudi Arabia 2013 Vision" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide2.jpg" alt="Slide 1" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide3.jpg" alt="Slide 2" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide4.jpg" alt="Slide 3" />
