@@ -74,6 +74,7 @@
 			<div id="main-slideshow">
 				<div class="row">
 					<div class="fadein">
+						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/Saudi-Arabia-2030-Vision.jpg" alt="Saudi Arabia 2013 Vision" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide2-ar.jpg" alt="Slide 2" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide3-ar.jpg" alt="Slide 3" />
 						<img src="<?=get_bloginfo('stylesheet_directory');?>/images/slide4-ar.jpg" alt="Slide 4" />
