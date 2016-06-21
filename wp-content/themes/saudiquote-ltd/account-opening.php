@@ -25,7 +25,7 @@ get_header();
 						<div class="small-12 medium-5 large-5 columns">
 							<div class="box-content wow ">
 								<h3>التقي بعبدالله</h3>
-								<p>عبدالله كان يتصفح موقع <strong>"SaudiQuote"</strong> وقرر فتح حساب حقيقي</p>
+								<p>عبدالله كان يتصفح موقع <strong>"SaudiQuote"</strong> وقرر فتح حساب</p>
 							</div>
 						</div>
 						<div class="small-12 medium-7 large-7 columns">
