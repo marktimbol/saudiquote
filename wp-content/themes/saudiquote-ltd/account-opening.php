@@ -174,7 +174,7 @@ get_header();
 						<div class="small-12 medium-5 large-5 columns">
 							<div class="box-content wow fadeInLeft">
 								<h3>Meet Abdullah</h3>
-								<p>Abdullah has been browsing through <strong>"SaudiQuote"</strong> website and decided to open a live account.</p>
+								<p>Abdullah has been browsing through <strong>"SaudiQuote"</strong> website and decided to open an account.</p>
 							</div>
 						</div>
 						<div class="small-12 medium-7 large-7 columns">
@@ -248,14 +248,6 @@ get_header();
 								<p class="lead">
 									Abdullah's account is approved. He receives his Trader's Room login details where:
 								</p>
-
-								<p class="lead">
-									He can download MetaTrader 4
-								</p>
-
-								<div class="wow fadeInRight">
-									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-41.jpg" class="img-shadow" />
-								</div>	
 											
 								<br /><br />
 								<div class="clearfix"></div>
@@ -278,7 +270,7 @@ get_header();
 					<div class="row">
 						<div class="small-12 medium-5 large-5 columns">
 							<div class="box-content wow fadeInLeft">
-								<p>Abdullah funds his account, and then receives his MT4 account login credentials.</p>
+								<p>Abdullah funds his account, and then receives his login credentials.</p>
 								<p>He is now ready to trade</p>
 							</div>
 						</div>
