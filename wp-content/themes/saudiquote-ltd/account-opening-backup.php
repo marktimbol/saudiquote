@@ -98,7 +98,11 @@ get_header();
 							<div>
 								<p class="lead">
 									عبدالله يتلقى رسالة تأكيد عن الموافقة على فتح الحساب على بريده الالكتروني التي تتضمن تفاصيل تسجيل الدخول الى غرفة التداول.
-								</p>												
+								</p>
+
+								<div class="">
+									<img src="https://saudiquote.com/wp-content/uploads/2014/12/Download-MetaTrader-4-Screenshot-Arabic.png" class="img-shadow" />
+								</div>														
 
 								<br /><br /><br />
 								<p class="lead">
@@ -119,7 +123,7 @@ get_header();
 					<div class="row">
 						<div class="small-12 medium-5 large-5 columns">
 							<div class="box-content wow ">
-								<p>عندما اودع في حسابه، قام باستلام بريد الكتروني يحتوي على تفاصيل الدخول.</p>
+								<p>عندما اودع في حسابه، قام باستلام بريد الكتروني يحتوي على تفاصيل الدخول الى منصة MT4.</p>
 								<p>وهو الآن جاهز للتداول</p>
 							</div>
 						</div>
