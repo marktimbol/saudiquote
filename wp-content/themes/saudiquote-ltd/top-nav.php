@@ -103,10 +103,7 @@
 							<form method="POST">
 								<select id="form-select">
 									<option value="">I want to...</option>
-									<option value="<?=get_permalink(1109);?>">Open a live account</option>
-									<option value="<?=get_permalink(1107);?>">Open a demo account</option>
 									<option value="<?=get_permalink(1071);?>">Know more about SaudiQuote</option>
-									<option value="<?=get_permalink(2059);?>">Know more about funds deposit</option>
 									<option value="<?=get_permalink(2293);?>">Know the account opening process</option>
 									<option value="<?=get_permalink(1611);?>">Request a call</option>
 								</select>
